@@ -4,6 +4,8 @@ All Max For Live devices I make and am willing to show to the world
 
 #ChordPitcher
 
+![alt tag](http://i.imgur.com/V1HGumv.jpg)
+
 This is a Max for Live audio effect that can repitch a sound to 4 different ratios in real time(from -48st to 48st). 
 So you can add this effect over a monophonic synth and make it play a chord instantly. 
 
@@ -14,6 +16,8 @@ Also it has a seperate frequency shifter for each voice.
 One thing to note is that the device can have a bit of latency when the used ratios are very large.
 
 #Tails
+
+![alt tag](http://i.imgur.com/HN7H4Jg.jpg)
 
 This is a device that automatically records its input whenever you pause Ableton. Effectively recording the tails of your Live set. This way you can save your beautiful audio tails and reuse them in creative ways. 
 
